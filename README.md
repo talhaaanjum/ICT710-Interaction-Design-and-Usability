@@ -62,26 +62,12 @@ The project follows a user-centred design approach:
 - **Microsoft Teams** — Team communication and coordination
 - **Microsoft Excel** — Organising usability evaluation data, where required
 
-## Repository Structure
-
-The following structure is proposed for organising project files:
-
-```text
-TradeEase/
-├── README.md
-├── design/
-│   ├── wireframes/
-│   ├── high-fidelity-ui/
-│   └── prototype/
-├── documentation/
-│   ├── design-rationale.md
-│   └── usability-evaluation.md
-└── presentation/
-    └── assessment-3/
-```
 
 ## Team Members
 
 This project is a collaborative group assignment involving the following GitHub contributors:
-
-| Team Member | GitHub
+- akramhosain55
+- sultanakhan290
+- azizmunnafu2025
+- anikrjaman-arch
+- talhaanjum
